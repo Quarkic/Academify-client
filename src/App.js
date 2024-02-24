@@ -34,8 +34,8 @@ export const TOAST_SUCCESS = "toast_success";
 export const TOAST_ERROR = "toast_error";
 
 function App() {
-  const isLoading = useSelector(state => state.appConfigReducer.isloading);
-  const toastData = useSelector(state => state.appConfigReducer.toastData);
+  const isLoading = useSelector((state) => state.appConfigReducer.isloading);
+  const toastData = useSelector((state) => state.appConfigReducer.toastData);
   const loadingRef = useRef(null);
   useEffect(() => {
     if (isLoading) {
