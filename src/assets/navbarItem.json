@@ -1,0 +1,22 @@
+[
+  {
+    "link": "/attendance",
+    "tag": "Attendance"
+  },
+  {
+    "link": "/feedback",
+    "tag": "Feedback"
+  },
+  {
+    "link": "/plagchecker",
+    "tag": "Plagiarism"
+  },
+  {
+    "link": "/assignment",
+    "tag": "Assignment"
+  },
+  {
+    "link": "/budgets",
+    "tag": "Budget"
+  }
+]
